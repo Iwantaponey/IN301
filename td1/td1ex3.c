@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> // on a besoin de la librairie standard pour appeler la fonction printf pour afficher du texte
 
 void affiche_resultat(int x, int y)
 {
